@@ -9,7 +9,7 @@ Hui Tian<sup>1,*</sup>, Yiqin Qiu<sup>2</sup>, Wojciech Mazurczyk<sup>3</sup>, H
 ![framework](./framework.png)
 
 - [STFF-SM: Steganalysis Model Based on Spatial and Temporal Feature Fusion for Speech Streams](#stff-sm-steganalysis-model-based-on-spatial-and-temporal-feature-fusion-for-speech-streams)
-  - [🏁 Quick Start](#-quick-start)
+  - [🏁 How to Start](#-how-to-start)
     - [⚙️ Installation Dependencies:](#️-installation-dependencies)
     - [📩 Prepare Dataset:](#-prepare-dataset)
     - [📥 Save Model Weights:](#-save-model-weights)
@@ -18,7 +18,7 @@ Hui Tian<sup>1,*</sup>, Yiqin Qiu<sup>2</sup>, Wojciech Mazurczyk<sup>3</sup>, H
   - [😊 Citation](#-citation)
 
 
-## 🏁 Quick Start
+## 🏁 How to Start
 
 ### ⚙️ Installation Dependencies:
 
