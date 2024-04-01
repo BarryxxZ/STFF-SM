@@ -1,4 +1,5 @@
 # STFF-SM: Steganalysis Model Based on Spatial and Temporal Feature Fusion for Speech Streams
+
 To promote the development of speech steganalysis, we release the code for our previous TASLP 2022 paper:
 
 [STFF-SM: Steganalysis Model Based on Spatial and Temporal Feature Fusion for Speech Streams](https://ieeexplore.ieee.org/document/9961950)
@@ -7,7 +8,15 @@ Hui Tian<sup>1,*</sup>, Yiqin Qiu<sup>2</sup>, Wojciech Mazurczyk<sup>3</sup>, H
 
 ![framework](./framework.png)
 
-[TOC]
+- [STFF-SM: Steganalysis Model Based on Spatial and Temporal Feature Fusion for Speech Streams](#stff-sm-steganalysis-model-based-on-spatial-and-temporal-feature-fusion-for-speech-streams)
+  - [🏁 Quick Start](#-quick-start)
+    - [⚙️ Installation Dependencies:](#️-installation-dependencies)
+    - [📩 Prepare Dataset:](#-prepare-dataset)
+    - [📥 Save Model Weights:](#-save-model-weights)
+    - [💻 Starting train or inference](#-starting-train-or-inference)
+  - [📚 License](#-license)
+  - [😊 Citation](#-citation)
+
 
 ## 🏁 Quick Start
 
@@ -82,11 +91,12 @@ Or if you want to train the model, please set `–train` to `True`.
 
 ## 📚 License
 
-This project is released under the MIT license. See LICENSE for details.
+This project is released under the MIT license. See [LICENSE](https://github.com/BarryxxZ/STFF-SM/blob/main/LICENSE) for details.
 
 ## 😊 Citation
 
 If you find the code and dataset useful in your research, please consider citing our paper:
+
 ```
 @article{qiu2022stff_sm,
   title={STFF-SM: Steganalysis Model Based on Spatial and Temporal Feature Fusion for Speech Streams},
