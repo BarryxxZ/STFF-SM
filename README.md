@@ -70,6 +70,9 @@ Saving the weights of trained models and place them into `model_weights/`.
 ```
 ${STFF_SM}
 |-- dataset
+	|-- Huang
+	|-- Yan
+	|-- Liu
 |-- model_weights        <-- the downloaded weights of trained models
 |-- model.py
 |-- train.py
