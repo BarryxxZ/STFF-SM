@@ -75,7 +75,7 @@ ${STFF_SM}
 	|-- Huang
 	|-- Yan
 	|-- Liu
-|-- model_weights        <-- the downloaded weights of trained models
+|-- model_weights        <-- the saved weights of trained models
 |-- model.py
 |-- train.py
 |-- module.py
