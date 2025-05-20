@@ -57,7 +57,7 @@ ${SepSteNetwithDPES}
 |-- other python codes, LICENSE, and README files
 ```
 
-Three steganograohy methods involved in our paper are as follows:
+Three steganography methods involved in our paper are as follows:
 
 - Y. Huang, C. Liu, S. Tang, and S. Bai, “Steganography integration into a low-bit rate speech codec,” IEEE Trans. Inf. Forensics Secur., vol. 7, no. 6, pp. 1865–1875, Dec. 2012.
 - S. Yan, G. Tang, and Y. Sun, “Steganography for low bit-rate speech based on pitch period prediction,” Appl. Res. Comput., vol. 32, no. 6, pp. 1774–1777, 2015.
